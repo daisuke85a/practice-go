@@ -4,7 +4,7 @@
 
 ```bash
 $ docker-compose up -d
-$ docker-compose exec app go run ./a_tour_of_go/packages.go
+$ docker-compose exec app go run ./a_tour_of_go/{$filename}
 ```
 
 ## web app sample
